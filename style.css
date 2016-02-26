@@ -1,0 +1,38 @@
+html{
+    background-color: FFDE89;
+}
+h1 {
+    color: aqua;
+    font-family: monospace;
+    font-size: 45px;
+    margin-left: 40%; 
+}
+div {
+    background-color: black;
+}
+p {
+    color: white;
+}
+.translate{
+    background-color: brown;
+    font-size: 50px;
+    border-top: 10px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    
+    
+}
+.Worms{
+    background-color:  darkblue;
+}
+a{
+    color: chartreuse;
+    font-style: oblique;
+    float: right;
+    margin-right: 50px;
+    margin-top: -350px;
+}
+img{
+    width: 500px;
+    height: 200px;
+}
