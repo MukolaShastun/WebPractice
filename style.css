@@ -1,38 +1,42 @@
 html{
-    background-color: FFDE89;
+    background-color: darksalmon;
 }
-h1 {
-    color: aqua;
-    font-family: monospace;
-    font-size: 45px;
-    margin-left: 40%; 
-}
-div {
-    background-color: black;
-}
-p {
+
+.header{
+    width: 100%;
+    height: 80px;
+    background-color: FFBB17;
+    border-radius: 15px;
     color: white;
 }
-.translate{
-    background-color: brown;
-    font-size: 50px;
-    border-top: 10px solid black;
-    border-radius: 20px;
-    padding: 5px;
-    
-    
+li.menu{
+    display: inline-block;
+    height: 100%;
+    width: 32%;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 550;
+    font-family: sans-serif;
 }
-.Worms{
-    background-color:  darkblue;
-}
-a{
-    color: chartreuse;
-    font-style: oblique;
+.news{
     float: right;
-    margin-right: 50px;
-    margin-top: -350px;
+    width: 40%;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color:6EF300 ;
+    
 }
-img{
-    width: 500px;
-    height: 200px;
+.news2{
+    float: left;
+    width: 40%;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color:6EF300 ;
+    
+}
+.recipes{
+  font-size: 30px;
+  font-family: sans-serif;  
 }
